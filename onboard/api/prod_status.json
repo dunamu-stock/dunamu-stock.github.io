@@ -1,5 +1,5 @@
 {
-	"maintenance": false,
+	"maintenance": true,
 	"maintenance_url": "https://pages.ustockplus.com/onboard/assets/htm/notice.html",
 	"web_maintenance_notice": false,
 	"maintenance_notice_time": "2021년 11월 20일(토) 09:00~13:00(4시간)",
