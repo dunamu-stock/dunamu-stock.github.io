@@ -2,5 +2,5 @@
 {
 	"maintenance": false,
 	"maintenance_url": "https://pages.dunamu.com/assets/service_check_maplus.html",
-	"appiron_maintenance" : false
+	"appiron_maintenance" : true
 }
